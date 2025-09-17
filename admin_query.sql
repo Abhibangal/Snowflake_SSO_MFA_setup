@@ -1,3 +1,5 @@
+/* Please refer to the Imp Links and go step by step for setting up Enterprise application Snowflake for Microsoft Entra ID for SSO and ALso for provisioning Users*/
+
 /*
 Create database schema and also authentication policy and assign it to account. What Suthentication you need to login in Snowflake
 MFA_Enrollment states whether your account need MFA or not
